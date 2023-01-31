@@ -15,6 +15,7 @@ public class Demo {
         for (int i = 0; i < 10; i++) {
             System.out.print("*");
         }
+        System.out.println();
         System.out.println("///");
         out:
         for (int i = 0; i < 10; i++) {
@@ -27,6 +28,7 @@ public class Demo {
             }
             System.out.println();
         }
+        System.out.println();
         System.out.println("////");
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {

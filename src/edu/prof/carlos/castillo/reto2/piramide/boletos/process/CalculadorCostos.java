@@ -1,4 +1,4 @@
-package edu.prof.carlos.castillo.reto2.boletos.process;
+package edu.prof.carlos.castillo.reto2.piramide.boletos.process;
 
 public class CalculadorCostos {
     public static double PRECIO_CHILD = 5.5;
